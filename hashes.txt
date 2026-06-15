@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El último tren hacia ti
+
+This log tracks the cryptographic history and versioning for the song **El último tren hacia ti** (el-ultimo-tren-hacia-ti).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:52:56.184158 | `v1` | `c8c775d223cb54647bb62e73ec9b291c32847295ba3696e4a50b3e19eaa17cf5` | `dcc482761e28505dd173dd014266ac50aeb0d486f8c15575672851b5578c1113` | `2026-06-15_el-ultimo-tren-hacia-ti-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

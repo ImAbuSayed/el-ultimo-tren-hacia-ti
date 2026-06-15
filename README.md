@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for El último tren hacia ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
+| **Get License** | [Get a Licensing Quote for El último tren hacia ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c8c775d223cb54647bb62e73ec9b291c32847295ba3696e4a50b3e19eaa17cf5` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
