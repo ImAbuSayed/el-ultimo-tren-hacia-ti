@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El último tren hacia ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
+| **Get License** | [Secure Licensing Rights for El último tren hacia ti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-ultimo-tren-hacia-ti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ya no me importa la hora, nena, tú eres el destino
+> Con ese porte de Madrid que me saca de mi camino
+> Dime si te vienes conmigo, que la disco ya cerró
+> El último tren hacia ti lo manejo yo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
